@@ -1,0 +1,40 @@
+{
+  "lang": "en",
+  "name": "Umarani.com",
+  "short_name": "Umarani",
+  "icons": [
+       {
+		  "src": "icon/36.png",
+		  "sizes": "36x36",
+		  "type": "image/png",
+		  "density": 0.75
+	  },
+	  {
+			"src": "icon/64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+	   },
+	  {
+        "src": "icon/128.png",
+        "sizes": "128x128",
+        "density": 2
+      }
+	  ],
+	  
+  "splash_screens": [{
+        "src": "splash/lowres",
+        "sizes": "320x240"
+      }, {
+        "src": "splash/hd_small",
+        "sizes": "1334x750"
+      }, {
+        "src": "splash/hd_hi",
+        "sizes": "1920x1080",
+        "density": 3
+      }],
+  "start_url": "/index.php",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "theme_color": "aliceblue",
+  "background_color": "red"
+}
