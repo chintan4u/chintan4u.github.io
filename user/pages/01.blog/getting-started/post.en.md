@@ -1,0 +1,20 @@
+---
+title: 'Progressive app going to rock n roll '
+date: '09:55 07-07-2015'
+taxonomy:
+    tag:
+        - grav
+headline: 'Grav is super easy to install, just follow along...'
+---
+
+## This is just test blog so bear with me for text.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vitae ligula tristique, lacinia arcu vel, vulputate diam. Proin hendrerit, sem ac mattis hendrerit, tortor elit blandit massa, eget molestie arcu orci vehicula elit. Vivamus nec purus ac elit tristique lobortis. Aliquam erat volutpat. Nullam non hendrerit nisi. Ut elementum ligula eros, sed malesuada mi tincidunt eget. Nulla tempor nibh purus, vitae molestie ligula fringilla vitae. Praesent ut purus malesuada, placerat sapien eu, mattis lectus. Fusce quam tellus, venenatis a viverra vel, mattis et metus. Suspendisse tincidunt tincidunt venenatis. Sed vel risus ut odio fermentum tincidunt. Aenean at mauris sit amet nunc varius venenatis. Aliquam suscipit justo at odio ultricies vulputate.
+
+Sed et vehicula metus, at sodales massa. Aliquam commodo, quam nec ultrices suscipit, quam felis luctus justo, sed mollis mauris nulla posuere ex. Morbi cursus fermentum ipsum, eu tempus arcu faucibus sed. Aliquam erat volutpat. Sed sed sodales magna. Sed id justo vitae odio pulvinar tristique quis quis odio. Ut pulvinar nec justo id placerat. Nullam feugiat eu diam ut rhoncus. Aenean porta felis nunc, a lobortis sapien faucibus et. Morbi eget sagittis risus. Vestibulum eleifend faucibus leo, in tincidunt ante sagittis in. Duis at orci at ex commodo eleifend.
+
+Fusce neque mi, euismod a risus sed, laoreet semper justo. Mauris turpis nibh, ultricies sed risus sed, finibus porttitor sem. Ut tempor nec felis ut pellentesque. Donec et vehicula eros, non varius diam. Cras tincidunt lacus id dui dapibus ultricies sit amet a velit. Cras pellentesque tellus nec quam iaculis, a aliquet velit bibendum. Quisque eu enim id metus laoreet volutpat a sit amet massa. Mauris in nulla ac mi blandit scelerisque. Donec lorem ligula, eleifend venenatis viverra ornare, laoreet quis eros. Etiam feugiat rhoncus metus, eget posuere nisi imperdiet vitae. Integer fringilla efficitur augue nec egestas. Pellentesque euismod arcu efficitur felis molestie, ac vehicula enim tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed et posuere urna. Vivamus tristique velit ac vestibulum eleifend. Proin condimentum rhoncus consectetur.
+
+Aenean non augue purus. Praesent vel sagittis elit, id faucibus ante. Nullam efficitur vitae neque at sodales. Maecenas turpis magna, commodo et erat sollicitudin, porttitor consectetur velit. Nam pretium, eros vulputate scelerisque pulvinar, libero magna maximus sem, ac dignissim leo ante nec lorem. Vestibulum molestie a justo in tempor. Maecenas nisl mi, pellentesque non sem ut, lacinia consequat magna. Suspendisse blandit eros ac dui pretium, nec ullamcorper mi viverra. Integer et leo consectetur, posuere massa in, fermentum tortor. Mauris interdum nisl vitae turpis porttitor lobortis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ut tincidunt nibh, sed iaculis quam. Donec at orci vel massa semper lacinia. Etiam ut scelerisque sapien. Mauris finibus sit amet nulla a varius. In sit amet felis at nulla luctus lacinia id eget quam.
+
+Donec sodales, elit id rhoncus aliquet, ex lorem elementum neque, in sollicitudin lectus est eu eros. Quisque commodo metus magna, id sagittis sem sollicitudin aliquet. Phasellus a libero pharetra metus vehicula porta non id quam. Vivamus facilisis lacinia scelerisque. Nam rutrum lacus purus. Suspendisse ultricies neque nec erat volutpat varius. Morbi quam justo, auctor nec massa in, varius commodo nisi. Quisque non mi lorem. Sed et orci nec metus ullamcorper mattis et in leo. Etiam rhoncus pretium blandit. Aliquam et lectus feugiat ex imperdiet imperdiet.

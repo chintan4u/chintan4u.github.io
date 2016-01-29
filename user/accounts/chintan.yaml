@@ -1,0 +1,11 @@
+email: chintan4u@live.com
+fullname: 'Chintamani Umarani'
+title: Chintan
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$zROUVY1lL2SLSq907hrrV.ZKM83K5kSD2.eqtRJ4w7XbqdJa01gNO
