@@ -1,6 +1,5 @@
-
 //Cache polyfil to support cacheAPI in all browsers
-importScripts('/cache-polyfill.js');
+importScripts('./cache-polyfill.js');
 
 var staticCache = 'initial-static-v1';
 
@@ -10,13 +9,13 @@ var myCaches = [staticCache];
 //Files to cache
 var files = [
   '/',
-  '/index.html',
-  '/css/styles.css',
-  '/js/app.js',
-  '/images/profile.png',
-  '/js/jquery.jscroll.min.js',
-  '/js/main.js',
-  '/js/jquery-2.1.4.min.js'
+  './index.html',
+  './css/styles.css',
+  './js/app.js',
+  './images/profile.png',
+  './js/jquery.jscroll.min.js',
+  './js/main.js',
+  './js/jquery-2.1.4.min.js'
 ];
 
 //Adding install event listener

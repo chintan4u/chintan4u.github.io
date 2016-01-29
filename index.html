@@ -17,15 +17,15 @@
                               
               <script src="./js/jquery-2.1.4.min.js" type="text/javascript"></script>
 <script src="./js/main.js" type="text/javascript"></script>
-<script src="./js/jquery.jscroll.min.js" type="text/javascript"></script>
+<script src="js/jquery.jscroll.min.js" type="text/javascript"></script>
 
 <script>
-$(document).ready(function() {
+/*$(document).ready(function() {
         $('.infinite-scroll').jscroll({
         autoTrigger: true,
         nextSelector: '[rel="next"]'
         });
-    });
+    });*/
 
 </script>
 
@@ -87,19 +87,25 @@ $(document).ready(function() {
 
                 <footer id="footer">
     <p class="small">© Copyright 2016 Umarani.com</p>
+	<span>SW Registration:
+          <b>
+            <span id="sw-register-state">✕</span>
+          </b>
+        </span>
 </footer>
 </section>
  <script type="text/javascript">
     //If serviceWorker supports, then register it.
     if ('serviceWorker' in navigator) {
       navigator.serviceWorker
-        .register('./serviceWorker.js') //Point to serviceWorker file
-        .then(function () {
+        .register('serviceWorker.js') //Point to serviceWorker file
+        .then(function (registration) {
           console.log('serviceWorker is registered');
+		  console.log('ServiceWorker registration successful with scope: ', registration.scope);
           document.getElementById('sw-register-state').textContent = '✓';
         })
         .catch(function (error) {
-          console.log('Failed to register serviceWorker');
+          console.log('ServiceWorker registration failed: ', error);
           document.getElementById('sw-register-state').textContent = '✕'; //Failed to register
         });
     }
