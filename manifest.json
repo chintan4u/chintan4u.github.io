@@ -4,35 +4,30 @@
   "short_name": "Umarani",
   "icons": [
        {
-		  "src": "icon/36.png",
+		  "src": "images/36.png",
 		  "sizes": "36x36",
 		  "type": "image/png",
 		  "density": 0.75
 	  },
 	  {
-			"src": "icon/64.png",
+			"src": "images/64.png",
 			"sizes": "64x64",
 			"type": "image/png"
-	   },
-	  {
-        "src": "icon/128.png",
-        "sizes": "128x128",
-        "density": 2
-      }
+	   }
 	  ],
 	  
   "splash_screens": [{
-        "src": "splash/lowres",
+        "src": "images/320_240.png",
         "sizes": "320x240"
       }, {
-        "src": "splash/hd_small",
+        "src": "images/1334_750.png",
         "sizes": "1334x750"
       }, {
-        "src": "splash/hd_hi",
+        "src": "images/1920_1080.png",
         "sizes": "1920x1080",
         "density": 3
       }],
-  "start_url": "/index.php",
+  "start_url": "/index.html",
   "display": "fullscreen",
   "orientation": "landscape",
   "theme_color": "aliceblue",
