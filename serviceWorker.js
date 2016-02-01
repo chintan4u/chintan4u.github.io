@@ -1,7 +1,7 @@
 //Cache polyfil to support cacheAPI in all browsers
 importScripts('./cache-polyfill.js');
 
-var staticCache = 'initial-static-v1';
+var staticCache = 'static-v1';
 
 //My Cache names
 var myCaches = [staticCache];
@@ -72,7 +72,7 @@ self.addEventListener("fetch", function (event) {
 self.addEventListener("activate", function (event) {
   console.log("Event: Activate");
 
-  var cacheWhitelist = ['initial-cache-v1'];
+  var cacheWhitelist = ['cache-v1'];
 
   //Delete unwanted caches
   event.waitUntil(
