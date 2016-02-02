@@ -10,6 +10,10 @@ var myCaches = [staticCache];
 var files = [
   '/',
   './index.html',
+  './what-is-pwa.html',
+  './create-pwa.html',
+  './further-references.html',
+  './about.html',
   './css/styles.css',
   './js/app.js',
   './images/profile.png',
